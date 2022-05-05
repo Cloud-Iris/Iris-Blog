@@ -1,4 +1,5 @@
-baseURL: http://example.org/
+# https://<USERNAME>.github.io/<REPOSITORY_NAME>
+baseURL: http://Cloud-Iris.github.io/Iris-Blog
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
